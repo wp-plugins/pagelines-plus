@@ -5,7 +5,7 @@ Plugin URI: http://highergroundstudio.com
 Description: Enhancements to Pagelines Wordpress framework
 Author: Kyle King
 Author URI: http://highergroundstudio.com
-Version: 1.1.0
+Version: 1.1.1
 Tags: upload, install, section, pagelines
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
